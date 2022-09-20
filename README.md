@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MONO**
 
-- 👨‍💻 All of my projects are available at [https://ahmedwaleed.ga](https://ahmedwaleed.ga)
+- 👨‍💻 Some of my projects are available at [https://ahmedwaleed.ga](https://ahmedwaleed.net)
 
 - 💬 Ask me about **React, Laravel**
 

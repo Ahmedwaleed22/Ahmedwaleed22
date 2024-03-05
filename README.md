@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Laravel**
 
-- 📫 How to reach me **me@ahmedwaleed.net**
+- 📫 How to reach me **work@ahmedwaleed.net**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SfbJPDOteP0xHt6ZCYUUfUMPLlurVdpT/view?usp=sharing](https://drive.google.com/file/d/1SfbJPDOteP0xHt6ZCYUUfUMPLlurVdpT/view?usp=sharing)
 

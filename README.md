@@ -16,7 +16,7 @@
 <a href="https://stackoverflow.com/users/13960685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13960685" height="30" width="40" /></a>
 <a href="https://fb.com/ahmedwaleedmohamed22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmedwaleedmohamed22" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmed.waleed.mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed.waleed.mohamed" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ahmed waleed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmed waleed" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ahmedwaleed5170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmed waleed" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ahmedwaleed22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmedwaleed22" height="30" width="40" /></a>
 </p>
 

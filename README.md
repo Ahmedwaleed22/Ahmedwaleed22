@@ -1,13 +1,32 @@
-<h1 align="center">Hi 👋, I'm Ahmed Waleed</h1>
-<h3 align="center">A Full-Stack Web Developer</h3>
+# 👋 Hi, I’m Ahmed Waleed
 
-- 🔭 I’m currently working on **Softech Design**
+I’m a full-stack developer who loves building clean, scalable, and reliable software.
+With over 2,300 contributions this year, I spend most of my time crafting backend services, building tools, and experimenting with new technologies.
 
-- 👨‍💻 Some of my projects are available at [https://ahmedwaleed.net](https://ahmedwaleed.net)
+## 🚀 What I Do
+	•	Build backend services using Node.js, PHP, Python
+	•	Create clean and modern frontends with React, TypeScript, and CSS
+	•	Design scalable APIs, microservices, and distributed systems
+	•	Work across teams and organizations (@Ryzora, @PixloTech, and others)
 
-- 💬 Ask me about **React, Laravel**
+## 🧰 Tech Stack
 
-- 📫 How to reach me **work@ahmedwaleed.net**
+Languages: TypeScript, JavaScript, Python, PHP, SQL
+Frontend: React, Next.js, CSS, Tailwind
+Backend: Express, FastAPI, Laravel
+Tools: Docker, Git, PostgreSQL, Redis, Linux
+Cloud: AWS, Vercel, Railway, Render
+
+## 📌 Featured Projects
+	•	resume-builder – TypeScript-based CV generator
+	•	DarkRise – Python project focused on automation/AI
+	•	mono_backend – PHP monolithic backend service
+	•	credit-card-form – Clean CSS implementation of card UI
+
+## 📫 Find Me Online
+	•	🌐 Website: https://ahmedwaleed.net
+	•	🐦 Twitter: @CodingWithAhmed
+	•	🧑‍💻 GitHub: github.com/ahmedwaleed22
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

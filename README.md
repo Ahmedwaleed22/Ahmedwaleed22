@@ -22,6 +22,7 @@ Cloud: AWS, Vercel, Railway, Render
 	•	DarkRise – Python project focused on automation/AI
 	•	mono_backend – PHP monolithic backend service
 	•	credit-card-form – Clean CSS implementation of card UI
+	•	company-register-service-backend - Company formation backend system USA, UK, Canada
 
 ## 📫 Find Me Online
 	•	🌐 Website: https://ahmedwaleed.net
